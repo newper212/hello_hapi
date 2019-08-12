@@ -17,6 +17,5 @@ steps:
 
 - script: |
     npm install
-    npm start
-    npm test
+    npm run test
   displayName: 'npm start and test'
